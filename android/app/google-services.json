@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "476514761397",
+    "firebase_url": "https://mbank-5c49c.firebaseio.com",
+    "project_id": "mbank-5c49c",
+    "storage_bucket": "mbank-5c49c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476514761397:android:726017fc64f966cb",
+        "android_client_info": {
+          "package_name": "laxman.mbank.com.mbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476514761397-ed2fvkt5pic0a8vkecb6teeqclos5ilv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMOuCtbyFmFsYCrX0R9yaGe__rYaRFHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
