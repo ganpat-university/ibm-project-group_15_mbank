@@ -1,3 +1,0 @@
-
-String accountDetail ="";
-String phoneDetail = "";
